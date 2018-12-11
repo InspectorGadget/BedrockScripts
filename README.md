@@ -21,7 +21,7 @@ Then,
 cd {folder_name}
 
 Once done,
-run deploy mod command
+run {Deploy Mod Command}
 
 
 Data Locations:
