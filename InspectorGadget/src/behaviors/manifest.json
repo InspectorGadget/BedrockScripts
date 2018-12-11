@@ -1,0 +1,25 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "InspectorGadget",
+    "description": "Stuff",
+    "uuid": "ca2beed4-058b-45f3-ac74-1119d3c86787",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "behaviours for InspectorGadget",
+      "type": "client_data",
+      "uuid": "2cd234a9-2f6a-45a5-8d21-53fccef73318",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
